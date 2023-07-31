@@ -55,5 +55,5 @@
 
 3-4. 문장 읽어주는 기능 : `say`
 * 예시 : say "This is Mac"
-* 예시2 : say -f text.txt
+* 예시2 : `say -f text.txt`
  - 만약, 다른 경로에 읽을 파일이 있다면 `say -f`까지 입력하고 한칸뛰고 해당 파일 드래그 앤 드롭
